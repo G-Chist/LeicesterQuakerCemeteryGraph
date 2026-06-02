@@ -1,0 +1,25 @@
+---
+tags: [cemetery/pine_grove_cemetery, age-50-60]
+parents: [Charles_Hugo_Piltzecker_163798044, Anna_Margaret_Elizabeth_Piltzecker_163800036]
+siblings: [Robert_Walton_Piltzecker_163802168, John_Henry_Piltzecker_68518938, George_Bernard_Piltzecker_163800756, Alice_E_Noyes_65107707, Charles_Hugo_Piltzecker_55882528, Marion_Margaret_Shemeth_78815009, Lillian_Anna_Kallio_72721711, Gladys_Naomi_Desourdi_65010125]
+spouse: [Mary_Theresa_Piltzecker]
+---
+
+# Edward William Piltzecker
+
+[FindAGrave](https://www.findagrave.com/memorial/186140670/edward_william-piltzecker)
+
+## Parents
+- [[Charles_Hugo_Piltzecker_163798044]]
+- [[Anna_Margaret_Elizabeth_Piltzecker_163800036]]
+## Siblings
+- [[Robert_Walton_Piltzecker_163802168]]
+- [[John_Henry_Piltzecker_68518938]]
+- [[George_Bernard_Piltzecker_163800756]]
+- [[Alice_E_Noyes_65107707]]
+- [[Charles_Hugo_Piltzecker_55882528]]
+- [[Marion_Margaret_Shemeth_78815009]]
+- [[Lillian_Anna_Kallio_72721711]]
+- [[Gladys_Naomi_Desourdi_65010125]]
+## Spouse
+- [[Mary_Theresa_Piltzecker]]

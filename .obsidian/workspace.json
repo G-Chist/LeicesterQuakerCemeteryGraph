@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "5c1a990d54440fcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa22927890f19184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "099febdf1d24be8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c03f37fb192c759b",
+    "type": "split",
+    "children": [
+      {
+        "id": "666a2176dd99dc1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21c39a88d69ed598",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fa74962ef613aff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e4d793b188b45015",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20aff0690a1bff79",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb52d01d2a0c0e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d924b5065666ae78",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "842a15290b38b719",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cdf9583409f79b47",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8c6af01a936f6fb2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a031440c0878465f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "099febdf1d24be8d",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "Samuel_Slade_89291671.md",
+    "Ruth_Earle_110666143.md",
+    "Rufus_A_Chase_99688741.md",
+    "Robert_Walton_Piltzecker_163802168.md",
+    "Richard_Southgate_133699653.md",
+    "Reuben_Colton_215329339.md",
+    "Richard_Blair_Earle_180581160.md",
+    "R_Earle_162798633.md",
+    "Ralph_M_Earle_43489075.md",
+    "Ralph_Earle.md",
+    "Robert_Earle_14536354.md",
+    "Robert_Carr_196417393.md",
+    "Esek_Earle_143951546.md",
+    "Margaret_Comstock.md",
+    "Chester_Wheeler_214380847.md",
+    "Bessie_M_Wheeler_214380802.md",
+    "Ellwood_O_Wheeler_214380763.md",
+    "Esther_Taft_179369001.md",
+    "Walter_A_Taft_179368964.md",
+    "Anna_Ottoson_Hagberg_214584395.md",
+    "Elmer_Julius_Johnson_118943337.md",
+    "Anna_M_Johnson_118943270.md",
+    "Elmer_Julius_Johnson_118943228.md",
+    "Sarah_Elizabeth_Southwick_169750506.md",
+    "Charles_B_Ingram_205322595.md",
+    "generate_vault.py",
+    "list_deceased.csv",
+    "list_deceased"
+  ]
+}
